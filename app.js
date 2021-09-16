@@ -17,4 +17,6 @@ console.log(laterYears)
 let myAgeinDogYears = earlyYears + laterYears
 
 //
-myName = 'Rob Paz'.toLowerCase()
+myName = 'Rob Paz';
+
+console.log(`Me llamo ${myName.toLowerCase()}.  Tengo ${myAge} años en años humanos, que equivalen a ${myAgeinDogYears} en años perrunos`)
